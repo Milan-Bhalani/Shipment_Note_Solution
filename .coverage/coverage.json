@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "coverageData": [],
+  "testStatus": {
+    "50112|Test01_ShipmentNoteCanBeCreated": 0,
+    "50112|Test02_NewShipmentNoteHasDraftStatus": 0,
+    "50112|Test03_DraftToPendingIsAllowed": 0,
+    "50112|Test04_DraftToApprovedIsAllowed": 0,
+    "50112|Test05_DraftToReleasedIsBlocked": 0,
+    "50112|Test06_ApprovedToReleasedIsAllowed": 0,
+    "50112|Test07_ShipmentNoteRequiredCanBeEnabled": 0
+  }
+}

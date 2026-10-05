@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Shipment_Note_Solution",
+			"path": "."
+		},
+		{
+			"name": "Test",
+			"path": "../Test"
+		}
+	],
+	"settings": {}
+}

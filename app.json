@@ -1,0 +1,33 @@
+{
+  "id": "121c53aa-2218-43b0-96e6-9062b7050757",
+  "name": "Shipment Note Solution",
+  "publisher": "MBS",
+  "version": "1.0.0.0",
+  "brief": "Adds Shipment Note records to Sales Orders with status tracking and a posting control",
+  "description": "Shipment Note Solution adds a Shipment Note entity to Business Central, linked to Sales Orders. Configure a number series, track status (Draft, Pending, Approved, Released), and optionally require a Shipment Note flag before a Sales Order can be posted.",
+  "privacyStatement": "https://google.com",
+  "EULA": "https://google.com",
+  "help": "https://google.com",
+  "url": "https://google.com",
+  "contextSensitiveHelpUrl": "https://google.com",
+  "logo": "./logo/Mbs.png",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "28.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "17.0",   
+  "features": [
+    "NoImplicitWith","TranslationFile"    
+  ]
+}
